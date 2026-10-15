@@ -1,0 +1,97 @@
+[
+  {
+    "id": "session-1792096812731-22p0b",
+    "name": "Amigo Teste",
+    "ip": "127.0.0.1",
+    "isIpv6": false,
+    "isPrivate": true,
+    "latency": 19.4,
+    "jitter": 0,
+    "minLatency": 19.4,
+    "maxLatency": 19.4,
+    "packetLoss": 0,
+    "city": "Rede Local / Loopback",
+    "region": "Privada",
+    "country": "Rede Interna",
+    "countryCode": "LAN",
+    "isp": "Localhost / Intranet",
+    "userAgent": "curl/7.88.1",
+    "timestamp": 1792096812731,
+    "lastSeen": 1792096812731,
+    "history": [
+      {
+        "timestamp": 1792096812731,
+        "latency": 19.4
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "sample-google-dns",
+    "name": "Google DNS (8.8.8.8)",
+    "ip": "8.8.8.8",
+    "isIpv6": false,
+    "isPrivate": false,
+    "latency": 14.2,
+    "jitter": 1.1,
+    "minLatency": 12.8,
+    "maxLatency": 16.5,
+    "packetLoss": 0,
+    "city": "Mountain View",
+    "region": "California",
+    "country": "United States",
+    "countryCode": "US",
+    "isp": "Google LLC",
+    "timestamp": 1792092663773,
+    "lastSeen": 1792095663773,
+    "history": [
+      {
+        "timestamp": 1792094463773,
+        "latency": 15
+      },
+      {
+        "timestamp": 1792095063773,
+        "latency": 13.8
+      },
+      {
+        "timestamp": 1792095663773,
+        "latency": 14.2
+      }
+    ],
+    "notes": "Nó de referência primário"
+  },
+  {
+    "id": "sample-cloudflare",
+    "name": "Cloudflare Edge (1.1.1.1)",
+    "ip": "1.1.1.1",
+    "isIpv6": false,
+    "isPrivate": false,
+    "latency": 9.8,
+    "jitter": 0.8,
+    "minLatency": 8.5,
+    "maxLatency": 11.2,
+    "packetLoss": 0,
+    "city": "Anycast DNS",
+    "region": "Global",
+    "country": "Australia / Global",
+    "countryCode": "AU",
+    "isp": "Cloudflare, Inc.",
+    "timestamp": 1792089063773,
+    "lastSeen": 1792095963773,
+    "history": [
+      {
+        "timestamp": 1792094463773,
+        "latency": 10.4
+      },
+      {
+        "timestamp": 1792095363773,
+        "latency": 9.5
+      },
+      {
+        "timestamp": 1792095963773,
+        "latency": 9.8
+      }
+    ],
+    "notes": "Anycast de alta velocidade"
+  }
+]

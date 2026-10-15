@@ -1,0 +1,6 @@
+{
+  "name": "NetPing - Monitor de Latência & Painel IP por Nome",
+  "description": "Teste de latência de internet via IP em tempo real com registro por nome e painel administrativo protegido por senha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
